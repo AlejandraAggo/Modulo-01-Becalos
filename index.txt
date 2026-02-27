@@ -1,0 +1,21 @@
+Pagina web de tu pelicula favorita
+imagen del poster
+Título
+Subtítulo
+Sinopsis
+
+Color de fondo
+texto de colores
+el subtitulo debe tener una letra mas pequeña del titulo y de diferente tipografia
+una fuente diferente
+
+Tarjeta simple de tu perfil
+Nombre, imagen y un parrafo sobre tipografia
+cambia el estilo de letra
+DEbe estar centrado
+
+pagina de producto
+Muestres un producto con imagen y nombre 
+precio debe ser de color verde
+un enlace que diga compra ahora
+un subreyado del enlace

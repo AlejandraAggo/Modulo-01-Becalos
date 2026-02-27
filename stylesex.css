@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarjeta de Perfil</title>
+    
+    <link rel="stylesheet" href="stylesex.css">
+</head>
+<style>
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'motserrat', sans-serif; 
+}
+
+header {
+    background-color: rgba(169, 212, 236, 0.925);
+    width: 300px; px;
+    padding: 30px 30px;
+    text-align: center; 
+}
+
+header img {
+    width: 50%;
+    aspect-ratio: 1 / 1;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 30px auto 0 auto;
+}
+
+header h1 {
+    font-size: 24px;
+    color: #504b2c;
+    margin: 0 0 5px 0;
+}
+
+header {
+    font-size: 20px;
+    color: #0782d4;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin: 0 0 15px 0;
+}
+
+header {
+    font-size: 14px;
+    color: #181717;
+    line-height: 1.6;
+    margin: 0;
+}
