@@ -1,0 +1,56 @@
+[33mcommit 87714ebe5c9ff406115585c691dd57aad880d942[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Alejandra Aguilar <aleaguilar3079@gmail.com>
+Date:   Wed Mar 11 23:35:05 2026 -0600
+
+    Se añade nuevo proyecto, recapitulando lo visto en secciones pasadas, basado en Alineación centar, multilineal, y especiales con FLEXBOX
+
+[33mcommit 452de5c5b1fcd3b0a037775edef057fe000abd74[m
+Author: Alejandra Aguilar <aleaguilar3079@gmail.com>
+Date:   Fri Mar 6 18:22:02 2026 -0600
+
+    Continuacion leccion 4
+
+[33mcommit 041d98b7d5c44128fd954952d36a9b07d1e27150[m
+Merge: 01d4af6 8dab89a
+Author: Alejandra Aguilar <aleaguilar3079@gmail.com>
+Date:   Sat Feb 28 19:43:35 2026 -0600
+
+    Proyecto
+
+[33mcommit 01d4af605bf1d491407676d930d8f792e683e20f[m
+Author: Alejandra Aguilar <aleaguilar3079@gmail.com>
+Date:   Fri Feb 27 19:58:40 2026 -0600
+
+    Proyecto
+
+[33mcommit ad6634670f663b243585cf8f0db3b0c60eb25831[m
+Author: Alejandra Aguilar <aleaguilar3079@gmail.com>
+Date:   Thu Feb 26 19:17:36 2026 -0600
+
+    Creacion de estilo con html y css
+
+[33mcommit 8dab89a969f49fd10f81454804cee4a7e2c342c9[m
+Author: AlejandraAggo <aleaguilar3079@gmail.com>
+Date:   Wed Feb 18 22:20:09 2026 -0600
+
+    Add GitHub Actions workflow for Jekyll deployment
+    
+    This workflow automates the build and deployment of a Jekyll site to GitHub Pages, including necessary setup and artifact upload steps.
+
+[33mcommit 05281e39a50099a27790d3781f85ccea5075ceb8[m
+Author: Alejandra Aguilar <aleaguilar3079@gmail.com>
+Date:   Tue Feb 17 23:44:03 2026 -0600
+
+    Formulario haciendo CV en HTML
+
+[33mcommit 59cec059c793a0ee09177ed122ed0b2da004fd05[m
+Author: Alejandra Aguilar <aleaguilar3079@gmail.com>
+Date:   Tue Feb 17 23:31:05 2026 -0600
+
+    Primer trabajo con html
+
+[33mcommit 2929822a80e5ef96b337efdcead308b160812107[m
+Author: Alejandra Aguilar <aleaguilar3079@gmail.com>
+Date:   Thu Feb 12 17:44:56 2026 -0600
+
+    Adding README File
